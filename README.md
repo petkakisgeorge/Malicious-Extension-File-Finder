@@ -1,13 +1,15 @@
 # Malicious-Extension-File-Finder
 A Windows Searching Program in C++ (portable) that identifies potentially harmful file extensions on a Windows machine.
-<!-- Image displayed at 50% of its original size -->
+<!-- Image displayed at 70% of its original size -->
 <img src="https://github.com/petkakisgeorge/Malicious-Extension-File-Finder/blob/main/resources/example_images/GUI%20app.png?raw=true" alt="Screenshot of GUI app" width="70%">
 
 **Introduction:** \
 Malicious Extension File Finder is an advanced C++ tool that empowers Blue Teams and incident responders to efficiently and proactively detect potentially harmful files on Windows machines. Combining a Graphical User Interface (GUI) and Console Application, the tool offers a user-friendly experience while conducting comprehensive searches for files with malicious extensions, hidden double extensions, specific filenames, and a wide range of predefined malicious extensions like batch files, Office Macros, VBScript, and PowerShell Scripts. Furthermore, users can customize the search criteria to include other extensions relevant to their security needs.
 
 **User-Friendly Interface:** \
-The integration of a GUI and Console Application allows users of varying technical expertise to effectively utilize the tool. The GUI provides an intuitive interface for easy configuration, file selection, and customization of search parameters. Users can specify the target directory and define the criteria for identifying potentially malicious files. The Console Application complements the GUI by offering more advanced users the flexibility to automate searches and integrate the tool into existing security workflows.
+The integration of a GUI and Console Application allows users of varying technical expertise to effectively utilize the tool. The GUI provides an intuitive interface for easy configuration, file selection, and customization of search parameters. Users can specify the target directory and define the criteria for identifying potentially malicious files. The Console Application complements the GUI by offering more advanced users the flexibility to automate searches and integrate the tool into existing security workflows.\
+<!-- Image displayed at 70% of its original size -->
+<img src="https://github.com/petkakisgeorge/Malicious-Extension-File-Finder/blob/main/resources/example_images/search%20console.png?raw=true" alt="Screenshot of Console app" width="70%">
 
 **Comprehensive Search Capabilities:** \
 Malicious Extension File Finder's key strength lies in its comprehensive search capabilities. By scanning for files with multiple extensions, including hidden double extensions like "test.doc.exe," it identifies suspicious files that may attempt to masquerade as innocuous documents or executables. Moreover, the ability to search for specific filenames streamlines the process of identifying known threats or unauthorized files.
