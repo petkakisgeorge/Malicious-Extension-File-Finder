@@ -22,19 +22,19 @@ The tool's built-in database of predefined malicious extensions, encompassing ba
 **Proactive Threat Detection:**  \
 By promptly identifying potential threats, the Malicious Extension File Finder enables Blue Teams and incident responders to take proactive measures to safeguard their systems and data. Early detection allows for immediate investigation and containment, minimizing the risk of significant data breaches, unauthorized access, or further propagation of malware within the network.
 
-**Installation and Usage:**\
-- Download the zip from releases.\
+**Installation and Usage:**
+- Download the zip from releases.
 - Extract it inside any directory you want (portable).\
-**Run the app:**\
-1) Run from GUI (double click **MaliciousFinder.exe**)\
-2) Run from cmd directly (given the args by yourself)\
+**Run the app:**
+- Run from GUI (double click **MaliciousFinder.exe**)
+- Run from cmd directly (given the args by yourself)\
 Example: **"search console.exe" C:\Users\admin\Desktop\ C:\ 1 1 1 1 0 0 1 empty empty**
 
 **In case you want to compile it..**\
-**Compile commands of GUI app (maliciousFinder.cpp)**:\
-1) windres resource.rc -o resources.o\
-2) g++ -static -o maliciousFinder.exe maliciousFinder.cpp -lole32 -lgdi32 resources.o\
+**Compile commands of GUI app (maliciousFinder.cpp)**:
+- windres resource.rc -o resources.o
+- g++ -static -o maliciousFinder.exe maliciousFinder.cpp -lole32 -lgdi32 resources.o
 
-**Compile commands of Search/Console app (search console.cpp)**:\
-1) g++ -static -o "search console.exe" "search console.cpp"\
+**Compile commands of Search/Console app (search console.cpp)**:
+- g++ -static -o "search console.exe" "search console.cpp"
 
