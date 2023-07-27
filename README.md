@@ -28,7 +28,7 @@ By promptly identifying potential threats, the Malicious Extension File Finder e
 
 **Run the app:**
 - Run from GUI (double click **MaliciousFinder.exe**)
-- Run from cmd directly (given the args by yourself)\
+- or run from cmd directly (given the args by yourself)\
 Example: **"search console.exe" C:\Users\admin\Desktop\ C:\ 1 1 1 1 0 0 1 empty empty**
 
 **In case you want to compile it..**\
