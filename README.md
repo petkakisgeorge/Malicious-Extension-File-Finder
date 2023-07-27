@@ -6,15 +6,15 @@ A Windows Searching Program in C++ (portable) that identifies potentially harmfu
 **Introduction:** \
 Malicious Extension File Finder is an advanced C++ tool that empowers Blue Teams and incident responders to efficiently and proactively detect potentially harmful files on Windows machines. Combining a Graphical User Interface (GUI) and Console Application, the tool offers a user-friendly experience while conducting comprehensive searches for files with malicious extensions, hidden double extensions, specific filenames, and a wide range of predefined malicious extensions like batch files, Office Macros, VBScript, and PowerShell Scripts. Furthermore, users can customize the search criteria to include other extensions relevant to their security needs.
 
-**User-Friendly Interface:**  <br />
+**User-Friendly Interface:** \
 The integration of a GUI and Console Application allows users of varying technical expertise to effectively utilize the tool. The GUI provides an intuitive interface for easy configuration, file selection, and customization of search parameters. Users can specify the target directory and define the criteria for identifying potentially malicious files. The Console Application complements the GUI by offering more advanced users the flexibility to automate searches and integrate the tool into existing security workflows.
 
-**Comprehensive Search Capabilities:**  <br />
+**Comprehensive Search Capabilities:** \
 Malicious Extension File Finder's key strength lies in its comprehensive search capabilities. By scanning for files with multiple extensions, including hidden double extensions like "test.doc.exe," it identifies suspicious files that may attempt to masquerade as innocuous documents or executables. Moreover, the ability to search for specific filenames streamlines the process of identifying known threats or unauthorized files.
 
-**Predefined and Custom Malicious Extensions:**  <br />
+**Predefined and Custom Malicious Extensions:** \
 The tool's built-in database of predefined malicious extensions, encompassing batch files, Office Macros, VBScript, and PowerShell Scripts, enhances its threat detection capabilities. However, recognizing the ever-changing threat landscape, users can define their own malicious extensions relevant to their specific security requirements.
 
-**Proactive Threat Detection:**
+**Proactive Threat Detection:**  \
 By promptly identifying potential threats, the Malicious Extension File Finder enables Blue Teams and incident responders to take proactive measures to safeguard their systems and data. Early detection allows for immediate investigation and containment, minimizing the risk of significant data breaches, unauthorized access, or further propagation of malware within the network.
 
