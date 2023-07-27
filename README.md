@@ -16,6 +16,8 @@ Malicious Extension File Finder's key strength lies in its comprehensive search 
 
 **Predefined and Custom Malicious Extensions:** \
 The tool's built-in database of predefined malicious extensions, encompassing batch files, Office Macros, VBScript, and PowerShell Scripts, enhances its threat detection capabilities. However, recognizing the ever-changing threat landscape, users can define their own malicious extensions relevant to their specific security requirements.
+<!-- Image displayed at 70% of its original size -->
+<img src="https://github.com/petkakisgeorge/Malicious-Extension-File-Finder/blob/main/resources/example_images/app_use_case.png?raw=true" alt="Screenshot of app use case" width="70%">
 
 **Proactive Threat Detection:**  \
 By promptly identifying potential threats, the Malicious Extension File Finder enables Blue Teams and incident responders to take proactive measures to safeguard their systems and data. Early detection allows for immediate investigation and containment, minimizing the risk of significant data breaches, unauthorized access, or further propagation of malware within the network.
