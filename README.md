@@ -3,7 +3,7 @@ A Windows Searching Program in C++ (portable) that identifies potentially harmfu
 <!-- Image displayed at 50% of its original size -->
 <img src="https://github.com/petkakisgeorge/Malicious-Extension-File-Finder/blob/main/resources/example_images/GUI%20app.png?raw=true" alt="Screenshot of GUI app" width="70%">
 
-**Introduction:**  <br />
+**Introduction:** \
 Malicious Extension File Finder is an advanced C++ tool that empowers Blue Teams and incident responders to efficiently and proactively detect potentially harmful files on Windows machines. Combining a Graphical User Interface (GUI) and Console Application, the tool offers a user-friendly experience while conducting comprehensive searches for files with malicious extensions, hidden double extensions, specific filenames, and a wide range of predefined malicious extensions like batch files, Office Macros, VBScript, and PowerShell Scripts. Furthermore, users can customize the search criteria to include other extensions relevant to their security needs.
 
 **User-Friendly Interface:**  <br />
