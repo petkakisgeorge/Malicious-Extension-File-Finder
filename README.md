@@ -24,7 +24,8 @@ By promptly identifying potential threats, the Malicious Extension File Finder e
 
 **Installation and Usage:**
 - Download the zip from releases.
-- Extract it inside any directory you want (portable).\
+- Extract it inside any directory you want (portable).
+
 **Run the app:**
 - Run from GUI (double click **MaliciousFinder.exe**)
 - Run from cmd directly (given the args by yourself)\
