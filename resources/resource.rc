@@ -1,0 +1,8 @@
+#include <windows.h>
+
+// Define the resource IDs for your icons
+#define IDR_ICON_SMALL 101
+#define IDR_ICON_BIG 102
+
+IDR_ICON_SMALL ICON "MaliciousFinder.ico"
+IDR_ICON_BIG ICON "MaliciousFinder.ico"
